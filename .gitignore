@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Model & Cache directories
+hf_cache/
+hf_cache*/
+
+# User configurations & presets
+tagger_presets.json
+crash.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
